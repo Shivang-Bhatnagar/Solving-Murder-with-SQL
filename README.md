@@ -1,7 +1,5 @@
+**Murder Mystery SQL Project and Web Scraping**
 
-Certainly! Here's a draft for your README:
-
-Murder Mystery SQL Project and Web Scraping
 Overview:
 This project involves two main components: a murder mystery SQL project and web scraping from a website.
 
